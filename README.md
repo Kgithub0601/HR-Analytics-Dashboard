@@ -47,7 +47,7 @@ HR analytics aim to provide insight into how best to manage employees and reach 
 
 2.) Utilization of complex parameters for drill-down analysis and filter customization.
 
-4.) Various visualization types used: bar graph, chart, donut chart, clustered bar graph, slicers, etc.
+3.) Various visualization types used: bar graph, chart, donut chart, clustered bar graph, slicers, etc.
 
  
 
