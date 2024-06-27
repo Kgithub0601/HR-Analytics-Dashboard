@@ -2,10 +2,11 @@
 
 # Overview 
 
+This project highlights the use of data visualization and analytics tools to identify key insights and provide actionable recommendations.
+HR analytics aim to provide insight into how best to manage employees and reach business goals. The objective is to monitor key HR metrics on employees and identify what factors impact attrition in the company.The Dashboard report with information on following factors is created to process the data and easily understand its relevance, which will help the organization determine what action they will need to take to retain more employees.
 
 
 # Objective
-
 
  With the help of HR ANALYTICS DASHBOARD we have to find out the reasons of attrition in the company and to find out the area of improvement for the future growth of the company.
 
@@ -41,6 +42,8 @@
  
  
  # Project Learning 
+
+
 
  
 
