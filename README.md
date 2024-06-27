@@ -43,7 +43,11 @@ HR analytics aim to provide insight into how best to manage employees and reach 
  
  # Project Learning 
 
+1.) Creation of interactive dashboards for online sales data analysis.
 
+2.) Utilization of complex parameters for drill-down analysis and filter customization.
+
+4.) Various visualization types used: bar graph, chart, donut chart, clustered bar graph, slicers, etc.
 
  
 
